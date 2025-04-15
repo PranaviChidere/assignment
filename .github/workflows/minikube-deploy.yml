@@ -1,0 +1,5 @@
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    name: build example and deploy to minikube
+    steps:
